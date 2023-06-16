@@ -87,24 +87,7 @@ to learn how to program and make websites and applications.💻
           <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
           </a>
-          <a href="https://www.laravel.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel.svg" alt="laravel" width="40" height="40"/>
-          </a>
-          <a href="https://www.symphony.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symphony/symphony.svg" alt="symphony" width="40" height="40"/>
-          </a>
-          <a href="https://www.php.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php.svg" alt="symphony" width="40" height="40"/>
-          </a>
-  <a href="https://www.phpmyadmin.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin.svg" alt="symphony" width="40" height="40"/>
-          </a>
-  <a href="https://www.xampp.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/xampp.svg" alt="xampp" width="40" height="40"/>
-          </a>
-  <a href="https://www.php.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php.svg" alt="symphony" width="40" height="40"/>
-          </a>
+         
       
 </p>
 
