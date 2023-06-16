@@ -46,9 +46,19 @@ to learn how to program and make websites and applications.💻
 🌱 Continuous learning is a core value for me, and I'm always exploring new technologies, frameworks, and methodologies to stay up-to-date with the rapidly evolving landscape of data and finance engineering. I'm excited about collaborating with like-minded individuals and contributing to open-source projects that push the boundaries of data-driven finance.
 
 
-### Socials
-
-📫 Let's connect! Feel free to reach out to me on [GitHub](https://github.com/elhaimersalma) or [LinkedIn](https://www.linkedin.com/in/salma-elhaimer-b06550244/) to discuss exciting opportunities, collaborations, or simply to geek out about data and finance. I'm enthusiastic about contributing to and learning from the vibrant tech and finance communities!
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/@yassinelakhdachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@GHAZOUAN-Oumaima" height="30" width="40" /></a>
+<a href="https://dev.to/@yassinelakhdachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@GHAZOUAN-Oumaima" height="30" width="40" /></a>
+<a href="https://twitter.com/OUMA_GHAZOUAN" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GHAZOUAN-Oumaima" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oumaima-ghazouan-199a0922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassine-lakhdachi/" height="30" width="40" /></a>
+<a href="https://medium.com/@yassine-lakhdachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@GHAZOUAN-Oumaima" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lakhdachiyassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="GHAZOUAN-Oumaima" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yassine19" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="GHAZOUAN-Oumaima" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lakhdachiyassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="GHAZOUAN-Oumaima" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@lakhdachiyassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@GHAZOUAN-Oumaima" height="30" width="40" /></a>
+<a href="/https://medium.com/feed/@yassine-lakhdachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@yassine-lakhdachi" height="30" width="40" /></a>
+</p>
 
 
 🚀 Let's transform data into actionable insights and drive the future of finance together! 💡✨
