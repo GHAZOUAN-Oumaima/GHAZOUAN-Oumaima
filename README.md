@@ -2,12 +2,11 @@
 Hello👋I'm GHAZOUAN Oumaima
 ===========================
 
-Data science & IoT Engineering Student | Web Developer & AI Enthusiast🌟
+Business Intelligence & Analytics Student | Web Developer & AI Enthusiast🌟
 ================================================
-👋 Hi there! I'm an enthusiastic data and web development engineering student that is interested about utilizing technology and analytics to drive impactful solutions.I am very ambitious
-to learn how to program and make websites and applications.💻
+👋 Hi there! I'm an enthusiastic data and web development engineering student who is passionate about utilizing technology and analytics to drive impactful solutions. I'm very ambitious and eager to learn how to program and create data-driven applications for in-depth analysis and insightful dashboarding. 💻 Let's harness the power of data to make informed decisions! 🚀
 
-🎓 Currently pursuing my studies in the National School of Computer Science and Systems Analysis, I am equipped with a strong foundation in both data science and Web devlopement. 
+🎓 Currently pursuing my studies in the National School of Computer Science and Systems Analysis, I am equipped with a strong foundation in both data Analysis and Web devlopement. 
 
 🌍 I am located in Rabat, Morocco.
 
